@@ -1,0 +1,18 @@
+Origin: YTKACE
+Label: YTKACE
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: YTKACE - open-source YouTube enhancement for iOS
+Date: Tue, 18 Aug 2026 16:02:10 GMT
+MD5Sum:
+ 2d2a1ce2c8dd9cf08c79d412e58213c6 1245 Packages
+ a84e87a5f52315db89e36d58aa63d983 586 Packages.gz
+SHA1:
+ 8daa6ece6789319ab449700a13fbcf731a5cb301 1245 Packages
+ 3e68f161e5854f76b8dc03c5281185692f56a15e 586 Packages.gz
+SHA256:
+ 2cb33af698b99d1f50add07ff09d46916578fd2317a2dc5490c7d86afcd5bc5c 1245 Packages
+ c42fb40fca3129f493106f1c20dff1964c36d7cb6b9fcde1a7f0a3756247e3d8 586 Packages.gz
